@@ -120,4 +120,4 @@ Deploy AWS infrastructure resources as per the architecture diagram.
 
 If you find this repository useful for learning, please give it a star on GitHub. Thank you!
 
-### Authored by [Harshhaa Reddy](https://github.com/NotHarshhaa)
+### Authored by [Jashwanth Pothina]
